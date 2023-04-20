@@ -21,4 +21,4 @@ Throughout the course of the project, we will answer several questions:
     
     ## Data Understanding
     An image of the dateset
-   ![alt text] (https://github.com/Cynthiah-Mulwo/dsc-phase-2-project-v2-3/blob/master/Screenshot%20from%202023-04-20%2019-35-47.png)
+   ![alt text](https://github.com/Cynthiah-Mulwo/dsc-phase-2-project-v2-3/blob/master/Screenshot%20from%202023-04-20%2019-35-47.png)
