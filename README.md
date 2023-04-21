@@ -65,3 +65,4 @@ We will use RSQUARED and MAE to meet 2 objectives:
 2. The quarter of the year in which the house was sold also appears to have a small effect on the price.
 3. The third model explains only about 60.8% of the variance in the price of the house.
 4. The limitations of the data used to train the model should be considered.
+# King-County-House-Sales-Analysis
